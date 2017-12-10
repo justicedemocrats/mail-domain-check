@@ -1,2 +1,21 @@
-# mail-domain-check
-A script for fixing mistyped email addresses in batch
+# MailCheck
+
+**TODO: Add description**
+
+## Installation
+
+If [available in Hex](https://hex.pm/docs/publish), the package can be installed
+by adding `mail_check` to your list of dependencies in `mix.exs`:
+
+```elixir
+def deps do
+  [
+    {:mail_check, "~> 0.1.0"}
+  ]
+end
+```
+
+Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
+and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
+be found at [https://hexdocs.pm/mail_check](https://hexdocs.pm/mail_check).
+
